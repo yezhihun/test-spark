@@ -6,7 +6,7 @@ package com.yezhihun
   *         Created on 2017/12/7.
   */
 class ApplyTest private{
-  def apply() = "Class_"
+  def apply() = "Class_111"
 
   var count: Int = 0;
 
